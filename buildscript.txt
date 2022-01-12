@@ -1,0 +1,3 @@
+// Command to push new build 
+
+curl -X POST -d {} https://api.netlify.com/build_hooks/61df48e84fda6043307d4c3d
