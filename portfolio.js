@@ -1,31 +1,30 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Christopher Celaya",
+	title: "Hi all, I'm Chris 👋🏻",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+		"A passionate Developer with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+	resumeLink: "https://",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "Im-Mr-Chris",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	instagram: "https://www.instagram.com/im_mr_chris",
+	twitter: "https://twitter.com/Im_Mr_Chris",
+	github: "https://github.com/Im-Mr-Chris",
+	linkedin: "https://www.linkedin.com/in/christophercelaya/",
 };
 
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		" FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECHNOLGOY",
 	skills: [
 		emoji(
 			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
