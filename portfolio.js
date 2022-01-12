@@ -15,22 +15,25 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	instagram: "https://www.instagram.com/im_mr_chris",
-	twitter: "https://twitter.com/Im_Mr_Chris",
-	github: "https://github.com/Im-Mr-Chris",
-	linkedin: "https://www.linkedin.com/in/christophercelaya/",
+	signalclout:	"https://www.signalclout.com/u/chriscelaya/metrics",
+	twitter: 		"https://twitter.com/Im_Mr_Chris",
+	github: 		"https://github.com/Im-Mr-Chris",
+	linkedin: 		"https://www.linkedin.com/in/christopher-celaya/",
 };
 
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		" FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECHNOLGOY",
+			"⚡ DEVELOPER EXPLORING CUTTING EDGE TECHNOLGIES",
 	skills: [
 		emoji(
 			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
 		),
 		emoji(
 			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+		),
+		emoji(
+			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
 		),
 		emoji(
 			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
@@ -67,20 +70,12 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:nodejs-icon",
 		},
 		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
 			skillName: "swift",
 			fontAwesomeClassname: "vscode-icons:file-type-swift",
 		},
 		{
 			skillName: "npm",
 			fontAwesomeClassname: "vscode-icons:file-type-npm",
-		},
-		{
-			skillName: "sql-database",
-			fontAwesomeClassname: "vscode-icons:file-type-sql",
 		},
 		{
 			skillName: "mongoDB",
@@ -122,46 +117,47 @@ export const SkillBars = [
 		Stack: "Programming",
 		progressPercentage: "60",
 	},
+	{
+		Stack: "Blockchain",
+		progressPercentage: "60",
+	},
+	{
+		Stack: "Virtual Reality",
+		progressPercentage: "60",
+	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "El Paso Community College",
+		subHeader: 	"Associates of Science",
+		duration:  	"Janurary 2008 - April 2008",
+		desc: 		"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit.",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "The Universtity of Texas at El Paso",
+		subHeader: 	"Bachelor's of Science in Electrical Engineering",
+		subHeader: 	"Master of Science in Computer Science",
+		subHeader: 	"Master of Science in Biomedical Engineering",
+		duration: 	"August 2007 - May 2018",
+		desc: 		"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
-	},
-	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
 		],
 	},
 ];
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "Google",
+		role: "Critical Infrastructure Technician",
+		company: "T5 Data Centers, Microsoft",
 		companylogo: "/img/icons/common/google.svg",
-		date: "June 2018 – Present",
+		date: "June 2021 – Present",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -169,8 +165,8 @@ export const experience = [
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
+		role: "Mechatronic Technician",
+		company: "CN Wire",
 		companylogo: "/img/icons/common/github.svg",
 		date: "May 2017 – May 2018",
 		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
