@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Christopher Celaya",
-	title: "Hi all, I'm Chris 👋🏻",
+	title: "Hi all, I'm Chris emoji(👋🏻)",
 	description:
-		"A passionate Developer with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+		"I study technology, patterns, similarities between reality and code. But mostly how humans are influenced by what they perceive and understand as reality.",
 	resumeLink: "https://",
 };
 
@@ -142,7 +142,6 @@ export const educationInfo = [
 		schoolName: "The Universtity of Texas at El Paso",
 		subHeader: 	"Bachelor's of Science in Electrical Engineering",
 		subHeader: 	"Master of Science in Computer Science",
-		subHeader: 	"Master of Science in Biomedical Engineering",
 		duration: 	"August 2007 - May 2018",
 		desc: 		"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
 		descBullets: [
@@ -172,10 +171,24 @@ export const experience = [
 		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
+		role: "Private Contractor",
+		company: "Self Employeed",
 		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2015 – Sep 2015",
+		date: "Jan 2017 – Sep 2021",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+	},
+	{
+		role: "Music Producer",
+		company: "Multiband Sounds",
+		companylogo: "/img/icons/common/airbnbLogo.png",
+		date: "Jan 2021 – Present",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+	},
+	{
+		role: "Wiring Technician, Quality Assurance",
+		company: "Schneider Electric",
+		companylogo: "/img/icons/common/airbnbLogo.png",
+		date: "Jan 2018 – Dec 2018",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 ];
@@ -189,25 +202,12 @@ export const projects = [
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://github.com/Im-Mr-Chris",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/1hanzla100",
 		link: "https://example.com",
-	},
-];
-
-export const feedbacks = [
-	{
-		name: "Hassan Mehmood",
-		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
-	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
 	},
 ];
