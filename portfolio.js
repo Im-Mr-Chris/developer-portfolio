@@ -165,22 +165,22 @@ export const experience = [
 	},
 	{
 		role: "Mechatronic Technician",
-		company: "CN Wire",
-		companylogo: "/img/icons/common/github.svg",
+		company: "CN Wire | Santa Teresa, New Mexico",
+		//companylogo: "/img/icons/common/github.svg",
 		date: "May 2017 – May 2018",
 		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 	{
 		role: "Private Contractor",
 		company: "Self Employeed",
-		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2017 – Sep 2021",
+		//companylogo: "/img/icons/common/airbnbLogo.png",
+		date: "Jan 2015 – Sep 2021",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 	{
 		role: "Music Producer",
 		company: "Multiband Sounds",
-		companylogo: "/img/icons/common/airbnbLogo.png",
+		//companylogo: "/img/icons/common/airbnbLogo.png",
 		date: "Jan 2021 – Present",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
@@ -188,26 +188,41 @@ export const experience = [
 		role: "Wiring Technician, Quality Assurance",
 		company: "Schneider Electric",
 		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2018 – Dec 2018",
+		date: "Jan 2016 – Jan 2017",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 ];
 
 export const projects = [
 	{
-		name: "lorem ipsum",
+		name: "Chris's Free Type Beats",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		link: "https://soundcloud.com/im_mr_chris",
+	},
+	{
+		name: "Koala T Books",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		website "https://koalatbooks.com",
+	},
+	{
+		name: "Nifty Beats",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		website: "https://",
+	},
+	{
+		name: "DeSo NFT VR Art Gallery",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		github: "https://app.spatial.io/rooms/6192cd26174f810001f7606e",
+	},
+	{
+		name: "DeSoBlox",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		link: "https://example.com",
 	},
 	{
-		name: "lorem ipsum",
+		name: "Star Words",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/Im-Mr-Chris",
-	},
-	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://",
 		link: "https://example.com",
 	},
 ];
